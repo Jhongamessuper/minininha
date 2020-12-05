@@ -9,4 +9,4 @@ Implementação do [tutorial básico](http://phaser.io/tutorials/making-your-fir
 
 ---
 
-[Apenda a programar para a web do zero com o Dev Web](https://github.com/ermogenes/aulas-programacao-web)
+[Aprenda a programar para a web do zero com o Dev Web](https://github.com/ermogenes/aulas-programacao-web)
