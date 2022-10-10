@@ -11,7 +11,7 @@ var gameOver = false;
 var fim;
 
 function preload() {
-    this.load.image('fundo', 'assets/fundo.png');
+    this.load.image('fundo', 'assets/fundo.png'); //O This é como fosse só aquilo o Load permite a você exibir uma mensagem durante o carregamento de sua página e image é para inserir uma imagem
     this.load.image('plataforma', 'assets/plataforma.png');
     this.load.image('estrela', 'assets/estrela.png');
     this.load.image('bomba', 'assets/bomba.png');
